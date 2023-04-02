@@ -1,0 +1,6 @@
+# VR-T12023
+To work on this project please read 'GitHub how to 100mb+.docx' first, because Github won't allow you to upload more than 100mb
+
+On the files Unity you will find our game
+Do not Use the Backup one as it is in a safe state of the current game
+Backup should be used only when all the changes made are safe to be transferred without breaking the current state of the game
