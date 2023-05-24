@@ -9,15 +9,3 @@ without breaking the current state of the game.
 
 # Instructions
 You cannot clone it until you have read 'GitHub how to upload 100mb+.docx' and follow the steps
-
-Clone the repository
-
-```console
-git clone https://github.com/redbackoperations/VR-T12023.git
-```
-
-Enter the downloaded repository
-
-```
-cd VR-T12023
-```
