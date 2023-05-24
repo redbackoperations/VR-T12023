@@ -1,0 +1,3 @@
+rep "ProjectSunCycleRedback@RedbackOperations@cloud"
+  path "/"
+    smartbranch "/main"
